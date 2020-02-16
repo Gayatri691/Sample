@@ -1,6 +1,6 @@
 import React from 'react';
 import './signup.css'
-class Login extends React.Component {
+class Signup extends React.Component {
 
     render() {
 
@@ -30,5 +30,5 @@ class Login extends React.Component {
 
 }
 
-export default Login;
+export default Signup;
 
