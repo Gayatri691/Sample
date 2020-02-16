@@ -1,0 +1,31 @@
+
+        label {
+            color: red;
+            font-weight: border;
+
+        }
+
+        input {
+            width: 100%;
+            padding: 6px;
+        }
+
+        .btn-group {
+            text-align: right;
+        }
+
+        .loginform {
+            border: 1px solid red;
+            padding: 10px;
+            Margin: 10px;
+            width: 50%;
+            margin: auto;
+            background-color: rosybrown;
+            margin-top: 12%;
+            border-radius: 10px;
+
+        }
+
+        .form-group {
+            margin: 10px;
+        }
