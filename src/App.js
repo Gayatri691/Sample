@@ -5,6 +5,7 @@ import Signup from './components/signup/signup';
 import Login from './components/login/login';
 import Header from './components/header/header';
 import Hello from './components/hello/hello';
+import Display from './components/display/display';
 
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
       <Error></Error>
       <Header></Header>
       <Hello></Hello>
+      <Display></Display>
       
     </div>
 
